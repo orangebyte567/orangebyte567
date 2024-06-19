@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-# 🔥 About Me 🔥 <img src="https://komarev.com/ghpvc/?username=orangebyte567&label=Profile%20views&color=0e75b6&style=flat" alt="0xcryptofire" />
+# 🔥 About Me 🔥 <img src="https://komarev.com/ghpvc/?username=orangebyte567&label=Profile%20views&color=0e75b6&style=flat" alt="orangebyte567" />
 
 </div>
 <!-- ### 🔥 &nbsp;About Me  -->
@@ -47,19 +47,29 @@
 
 # 📈 Statistics 📈
 
-<p align="center">
-  <a href="https://github.com/orangebyte567">
-    <img src="https://github-readme-stats.vercel.app/api?username=orangebyte567&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=orangebyte567&theme=github-dark-blue&hide_border=true" /><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orangebyte567&theme=github_dark&hide_border=true" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orangebyte567&theme=github_dark&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=orangebyte567&theme=react-dark" />
-  </a>
-</p>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=tokyo-night&hide_border=true&area=true" />
+<br>
 
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<table>
+    <tr align="center">
+        <td>
+        <a href="https://github.com/orangebyte567"><img src="https://github-readme-stats.vercel.app/api?username=orangebyte567&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        </a>
+        </td>
+        <td>
+        <a href="https://github.com/orangebyte567"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangebyte567&theme=tokyonight&layout=compact" />
+        </a>
+        </td>
+        <td>        
+        <a href="https://github.com/orangebyte567">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=orangebyte567&theme=tokyonight" />
+        </a>
+        </td>
+    </tr>
+</table>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orangebyte567&theme=radical&hide_border=true&row=1" alt="orangebyte567" /></a> </p>
 <br>
 
 </div>
