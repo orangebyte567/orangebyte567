@@ -48,15 +48,11 @@
 # 📈 Statistics 📈
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=github-compact	&hide_border=true&area=true" />
 <br>
 
 <table>
     <tr align="center">
-        <td>
-        <a href="https://github.com/orangebyte567"><img src="https://github-readme-stats.vercel.app/api?username=orangebyte567&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        </a>
-        </td>
         <td>
         <a href="https://github.com/orangebyte567"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangebyte567&theme=tokyonight&layout=compact" />
         </a>
@@ -68,8 +64,5 @@
         </td>
     </tr>
 </table>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orangebyte567&theme=radical&hide_border=true&row=1" alt="orangebyte567" /></a> </p>
-<br>
 
 </div>
