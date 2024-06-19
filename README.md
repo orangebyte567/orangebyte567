@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB;Full+Stack+and+Blockchain+Developer;I+have+6%2B+years+of+experience+%F0%9F%93%88" alt="orangebyte" width="650" height="55">
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 # 🔥 About Me 🔥 <img src="https://komarev.com/ghpvc/?username=orangebyte567&label=Profile%20views&color=0e75b6&style=flat" alt="orangebyte567" />
@@ -42,24 +41,23 @@
 </p>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
 # 📈 Statistics 📈
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=react&hide_border=true&area=true" />
 <br>
 
 <table>
     <tr align="center">
         <td>
-        <a href="https://github.com/orangebyte567"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangebyte567&theme=tokyonight&layout=compact" />
+        <a href="https://github.com/orangebyte567"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangebyte567&theme=react&layout=compact" />
         </a>
         </td>
         <td>        
         <a href="https://github.com/orangebyte567">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=orangebyte567&theme=tokyonight" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=orangebyte567&theme=react" />
         </a>
         </td>
     </tr>
