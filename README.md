@@ -48,7 +48,7 @@
 # 📈 Statistics 📈
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=github-compact	&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orangebyte567&theme=github-compact&hide_border=true&area=true" />
 <br>
 
 <table>
