@@ -2,7 +2,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB;Full+Stack+and+Blockchain+Developer;I+have+6%2B+years+of+experience+%F0%9F%93%88" alt="orangebyte" width="650" height="55">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=5000&color=FD7823&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB;Full+Stack+and+Blockchain+Developer;I+have+6%2B+years+of+experience+%F0%9F%93%88" alt="orangebyte" width="650" height="55">
 
 <p  align="center">
 <br>
